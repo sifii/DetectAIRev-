@@ -3,7 +3,7 @@ import json
 import pandas as pd
 from tqdm import tqdm
 
-def generate_review(prompt, model="gemma:latest"):
+def generate_review(prompt, model="deepseek:latest"):
     url = "http://localhost:11434/api/generate"
     data = {
         "model": model,
