@@ -1,6 +1,6 @@
-# Few-Shot vs Zero-Shot Evaluation
+# Details of the results
 
-This repository presents a comparative study between few-shot and zero-shot prompting methods in the context of AI-generated text detection. The project includes code for data generation, experimental results, visual comparisons, and detailed documentation on the methods and detectors used.
+This repository presents a comparative study detail for DetectAIRev dataset and detector, The project includes code for data generation, experimental results, visual comparisons, and detailed documentation on the methods and detectors used.
 
 ---
 
